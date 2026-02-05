@@ -10,3 +10,9 @@ Python toolkit to calculate local water scarcity risk scores and simulate adapta
 Goal: Simple calcs + viz for risk + intervention impact.
 
 MIT Licensed.
+## Quick Start (Colab/local)
+```bash
+pip install -r requirements.txt
+python src/risk_calculator.py
+python src/adaptation_sim.py
+python src/risk_map.py     # opens risk_map.html
