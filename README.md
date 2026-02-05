@@ -1,2 +1,12 @@
-# water-scarcity-adaptation-toolkit
-2026 toolkit for modeling local water risk + adaptation strategies (smart leak detection, low-energy desalination, AI rainfall forecasting) in drought-prone areas—tied to UN 'water bankruptcy' era and smart water trends.
+# Water Scarcity Adaptation Toolkit (2026)
+
+Python toolkit to calculate local water scarcity risk scores and simulate adaptation strategies like AI leak detection, smart irrigation savings, and basic desalination feasibility.
+
+**2026 Context**  
+- UN declares "era of global water bankruptcy" (Jan 2026 report): chronic depletion, overuse, climate heating → billions at risk.  
+- Trends: Smart water management booming (AI leak detection, real-time sensors, digital irrigation mainstream). Market to $22.6B+ in 2026.  
+- Focus: Drought adaptation via efficiency (reduce non-revenue water 20-40%), predictive forecasting, low-energy tech.
+
+Goal: Simple calcs + viz for risk + intervention impact.
+
+MIT Licensed.
